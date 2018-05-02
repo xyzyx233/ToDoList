@@ -5,4 +5,12 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
+    <string name="title_activity_import">ImportActivity</string>
+    <string name="import_from_file">从本地文件导入</string>
+    <string name="import_from_web">从网络导入</string>
+    <string name="choose_file">选择文件</string>
+    <string name="choose_url">选择网址</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

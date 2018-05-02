@@ -1,4 +1,4 @@
-package edu.andr.xyzyx.todolist;
+package edu.andr.xyzyx.activities;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
